@@ -14,7 +14,7 @@ A fun ML repository where students can create and compare their models on variou
 
 ## That sounds great! But how can we contribute?
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b MyModel-1`)
+2. Create your Feature Branch (`git checkout -b <name>-<modelName>`)
 3. Commit your Changes (`git commit -m 'Added my initial model'`)
 4. Push to the Branch (`git push origin MyModel-1`)
 5. Open a Pull Request
